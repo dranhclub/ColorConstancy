@@ -1,0 +1,42 @@
+[2022-09-12 19:49:54,339] {evaluation.py:135} INFO - 1/10
+[2022-09-12 19:49:54,339] {evaluation.py:86} INFO - RenderedWB_Set1/NikonD40_0011_D_D2
+[2022-09-12 19:49:55,536] {evaluation.py:114} INFO - DeltaE 2000: 4.85, MSE= 89.26, MAE= 7.71, DeltaE 76= 5.51
+
+[2022-09-12 19:49:55,537] {evaluation.py:135} INFO - 2/10
+[2022-09-12 19:49:55,537] {evaluation.py:86} INFO - RenderedWB_Set1/Canon600D_Indoor_Scene_14_2500_D_CS
+[2022-09-12 19:49:58,582] {evaluation.py:114} INFO - DeltaE 2000: 4.03, MSE= 79.13, MAE= 4.89, DeltaE 76= 5.87
+
+[2022-09-12 19:49:58,583] {evaluation.py:135} INFO - 3/10
+[2022-09-12 19:49:58,584] {evaluation.py:86} INFO - RenderedWB_Set1/NikonD40_0008_S_A4
+[2022-09-12 19:49:59,734] {evaluation.py:114} INFO - DeltaE 2000: 6.31, MSE= 103.39, MAE= 2.80, DeltaE 76= 7.01
+
+[2022-09-12 19:49:59,735] {evaluation.py:135} INFO - 4/10
+[2022-09-12 19:49:59,735] {evaluation.py:86} INFO - RenderedWB_Set1/FujifilmXM1_Indoor_Scene_03_3500_D_V
+[2022-09-12 19:50:02,596] {evaluation.py:114} INFO - DeltaE 2000: 6.02, MSE= 256.13, MAE= 7.74, DeltaE 76= 10.03
+
+[2022-09-12 19:50:02,596] {evaluation.py:135} INFO - 5/10
+[2022-09-12 19:50:02,597] {evaluation.py:86} INFO - RenderedWB_Set1/Canon600D_0158_C_F
+[2022-09-12 19:50:05,850] {evaluation.py:114} INFO - DeltaE 2000: 8.47, MSE= 245.47, MAE= 5.52, DeltaE 76= 12.53
+
+[2022-09-12 19:50:05,851] {evaluation.py:135} INFO - 6/10
+[2022-09-12 19:50:05,851] {evaluation.py:86} INFO - RenderedWB_Set1/IMG_0401_C_FF
+[2022-09-12 19:50:08,069] {evaluation.py:114} INFO - DeltaE 2000: 2.62, MSE= 10.41, MAE= 3.22, DeltaE 76= 2.35
+
+[2022-09-12 19:50:08,070] {evaluation.py:135} INFO - 7/10
+[2022-09-12 19:50:08,070] {evaluation.py:86} INFO - RenderedWB_Set1/IMG_0785_S_CS
+[2022-09-12 19:50:10,352] {evaluation.py:114} INFO - DeltaE 2000: 2.65, MSE= 17.40, MAE= 3.32, DeltaE 76= 2.63
+
+[2022-09-12 19:50:10,353] {evaluation.py:135} INFO - 8/10
+[2022-09-12 19:50:10,353] {evaluation.py:86} INFO - RenderedWB_Set1/Canon1DsMkIII_0153_S_FF
+[2022-09-12 19:50:13,977] {evaluation.py:114} INFO - DeltaE 2000: 4.16, MSE= 65.29, MAE= 2.79, DeltaE 76= 4.76
+
+[2022-09-12 19:50:13,979] {evaluation.py:135} INFO - 9/10
+[2022-09-12 19:50:13,979] {evaluation.py:86} INFO - RenderedWB_Set1/Canon600D_0110_T_CS
+[2022-09-12 19:50:16,965] {evaluation.py:114} INFO - DeltaE 2000: 9.15, MSE= 75.36, MAE= 3.83, DeltaE 76= 9.01
+
+[2022-09-12 19:50:16,966] {evaluation.py:135} INFO - 10/10
+[2022-09-12 19:50:16,966] {evaluation.py:86} INFO - RenderedWB_Set1/Canon1DsMkIII_0226_T_L
+[2022-09-12 19:50:20,438] {evaluation.py:114} INFO - DeltaE 2000: 9.49, MSE= 217.83, MAE= 6.15, DeltaE 76= 12.79
+
+[2022-09-12 19:50:20,439] {evaluation.py:149} INFO - [AVG] DeltaE 2000: 5.78, MSE= 115.97, MAE= 4.80, DeltaE 76= 7.25
+

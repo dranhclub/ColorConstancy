@@ -1,0 +1,18 @@
+[2022-09-12 19:42:23,112] {evaluation.py:123} INFO - 1/10
+[2022-09-12 19:42:23,112] {evaluation.py:85} INFO - RenderedWB_Set1/NikonD40_0011_D_D2
+[2022-09-12 19:42:24,356] {evaluation.py:102} INFO - DeltaE 2000: 4.85, MSE= 89.26, MAE= 7.71, DeltaE 76= 5.51
+
+[2022-09-12 19:42:24,357] {evaluation.py:123} INFO - 2/10
+[2022-09-12 19:42:24,357] {evaluation.py:85} INFO - RenderedWB_Set1/Canon600D_Indoor_Scene_14_2500_D_CS
+[2022-09-12 19:42:27,432] {evaluation.py:102} INFO - DeltaE 2000: 4.03, MSE= 79.13, MAE= 4.89, DeltaE 76= 5.87
+
+[2022-09-12 19:42:27,433] {evaluation.py:123} INFO - 3/10
+[2022-09-12 19:42:27,434] {evaluation.py:85} INFO - RenderedWB_Set1/NikonD40_0008_S_A4
+[2022-09-12 19:42:28,639] {evaluation.py:102} INFO - DeltaE 2000: 6.31, MSE= 103.39, MAE= 2.80, DeltaE 76= 7.01
+
+[2022-09-12 19:42:28,639] {evaluation.py:123} INFO - 4/10
+[2022-09-12 19:42:28,640] {evaluation.py:85} INFO - RenderedWB_Set1/FujifilmXM1_Indoor_Scene_03_3500_D_V
+[2022-09-12 19:42:31,366] {evaluation.py:102} INFO - DeltaE 2000: 6.02, MSE= 256.13, MAE= 7.74, DeltaE 76= 10.03
+
+[2022-09-12 19:42:31,367] {evaluation.py:123} INFO - 5/10
+[2022-09-12 19:42:31,367] {evaluation.py:85} INFO - RenderedWB_Set1/Canon600D_0158_C_F
