@@ -1,2 +1,3 @@
 datasets/five_k_expert_a_small/*/*.jpg
 *__pycache__*
+data/
