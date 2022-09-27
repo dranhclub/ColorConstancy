@@ -1,3 +1,6 @@
 datasets/five_k_expert_a_small/*/*.jpg
 *__pycache__*
 data/
+.vscode/
+df1.csv
+df2.csv
