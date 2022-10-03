@@ -4,3 +4,5 @@ data/
 .vscode/
 df1.csv
 df2.csv
+result_images/
+test_images/
